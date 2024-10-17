@@ -1,7 +1,7 @@
 # Photo-filter
 
 ![img_10](https://github.com/user-attachments/assets/25f1d9c4-dbff-4487-8845-ac2d49e24cb6)
-rs:
+
 
 
 **Definition:** Photo filters are digital tools used to enhance or alter the appearance of images by applying effects like color adjustments, contrast changes, or artistic transformations.
